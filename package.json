@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-seo-analyser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Yoast-style SEO analyser view for Sanity Studio v3+ — SEO, Readability, and Social tabs with full Portable Text support.",
   "keywords": [
     "sanity",
@@ -28,7 +28,8 @@
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
-    "src"
+    "src",
+    "README.md"
   ],
   "scripts": {
     "build": "pkg-utils build --clean",
