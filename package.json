@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-seo-analyser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Yoast-style SEO analyser view for Sanity Studio v3+ — SEO, Readability, and Social tabs with full Portable Text support.",
   "keywords": [
     "sanity",
@@ -48,7 +48,7 @@
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",
-    "sanity": "^3.0.0"
+    "sanity": "^3.0.0 || ^4.0.0 || ^5.0.0"
   },
   "engines": {
     "node": ">=18"
