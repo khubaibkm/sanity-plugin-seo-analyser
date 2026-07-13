@@ -1,5 +1,5 @@
 # sanity-plugin-seo-analyser
-
+ 
 A Yoast-style SEO analyser view for Sanity Studio v3, v4, and v5. Adds a dedicated **SEO Analysis** tab to any document type with three panels: SEO, Readability, and Social preview.
 
 ## Features
